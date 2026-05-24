@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Monir Alam<br>- 👀 People told me I am a Web Developer<br>- 🌱 I’m currently working as backend using Express.js<br>- 💞️ I’m openly looking for jobs as backend developer.<br>- ⚡ My skills are listed below. Feel free to scroll down.<br>- 📫 Contact me on LinkedIn - www.linkedin.com/in/monir-alam-611a66291<br>
+- 👋 Hi, I’m Monir Alam<br>- 👀 People told me I am a Web Developer<br>- 🌱 I’m currently working as backend using Express.js<br>- ⚡ My skills are listed below. Feel free to scroll down.<br>- 📫 Contact me on LinkedIn - www.linkedin.com/in/monir-alam-611a66291<br>
 
 
 ## 🌐 Socials:
